@@ -1,4 +1,5 @@
 # KT34303 Computer Graphics
+# KK24402 Graphics And Visualization
 
 ## 2D Animation
 [![YouTube](http://i.ytimg.com/vi/rcHaTmEm_eI/hqdefault.jpg)](https://www.youtube.com/watch?v=rcHaTmEm_eI)
